@@ -1,3 +1,5 @@
+// ½û¼ÉËÑË÷
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
